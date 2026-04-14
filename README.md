@@ -14,6 +14,12 @@
  git clone https://github.com/List-8919/Homework.git
 ```
 
+## Установка зависимости:
+Для установки зависимостей, выполните команды:
+```
+pip install -r requirements.txt
+```
+
 ## Примеры использования функций:
 
 + Модуль masks
